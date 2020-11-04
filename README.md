@@ -12,26 +12,18 @@
 [![GitHub issues](https://img.shields.io/github/issues/jobhope/technicalnote)](https://github.com/jobhope/TechnicalNote/issues)
 
 ### :two_men_holding_hands: **created by** 
-[![tdm1223](https://avatars1.githubusercontent.com/u/21440957?s=100&v=4)](https://github.com/tdm1223)
-[![rlatjdwo555](https://avatars0.githubusercontent.com/u/28692938?s=100&v=4)](https://github.com/rlatjdwo555)
-[![Stupid07](https://avatars1.githubusercontent.com/u/35564566?s=100&v=4)](https://github.com/Stupid07)
+
 
 ### :frowning_man: **도움을 주신 분들**
-<a href="https://github.com/Kaminari-j">
-<img width=100 height=100 src="https://avatars2.githubusercontent.com/u/5924648?s=100&v=4"></img>
-</a>
-<a href="https://github.com/sojeongw">
-<img width=100 height=100 src="https://avatars3.githubusercontent.com/u/33208821?s=100&v=4"></img>
-</a>
-<a href="https://github.com/yoogle96">
-<img width=100 height=100 src="https://avatars3.githubusercontent.com/u/37542374?s=100&v=4"></img>
-</a>
+
 
 **도움에 감사드립니다.** :pray:
 
+## Today I Learned
+- 하루하루 공부한 지식을 정리해 놓은 저장소 입니다.
+
 ## TechnicalNote?
 - **개발 관련 지식**을 정리해 놓은 저장소입니다.
-- 필기시험과 면접에서 **직접 겪었던** 내용 위주로 구성되어 있습니다.
 - 잘못된 부분이 있을 수도 있으니 **가이드라인**으로 참고해주시면 되겠습니다.
 - 궁금한 점이나 잘못된 부분은 **Issue**의 **Question** label 설정 후 등록해주세요.
 - 참고 자료 및 올렸으면 하는 지식을 **[Issue](https://github.com/jobhope/TechnicalNote/issues)** 등록을 통해 추가해주세요.
