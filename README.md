@@ -2,7 +2,7 @@
 
 </a>
 
-##README 양식 tdm1223 감사합니다.
+## README 양식 tdm1223(https://github.com/tdm1223) 감사합니다.
 
 :book: TechnicalNote
 ===
