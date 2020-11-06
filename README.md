@@ -32,8 +32,6 @@
 
 ## :books: Algorithm [:top:](#top)
 
-## :moneybag: JAVA [:top:](#top)
-
 ## :computer: Computer Architecture [:top:](#top)
 
 ## :evergreen_tree: Data Structure [:top:](#top)
