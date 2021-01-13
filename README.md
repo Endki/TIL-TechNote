@@ -33,7 +33,7 @@
 
 - #### Search 
 
-  - ###### [이진 탐색]((https://github.com/Endki/TIL-TechNote/blob/main/algorithm/Search/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md))
+  - ###### [이진 탐색](https://github.com/Endki/TIL-TechNote/blob/main/algorithm/Search/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
 
 ## :computer: Computer Architecture [:top:](#top)
 
