@@ -7,7 +7,7 @@
 :book: TIL&&TechnicalNote
 ===
 [![GitHub contributors](https://img.shields.io/github/contributors/jobhope/technicalnote)](https://github.com/jobhope/TechnicalNote/graphs/contributors)
-[![HitCount](http://hits.dwyl.io/jobhope/TechnicalNote.svg)](http://hits.dwyl.io/jobhope/TechnicalNote)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEndki%2FTIL-TechNote%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub](https://img.shields.io/github/license/jobhope/technicalnote)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/jobhope/technicalnote)](https://github.com/jobhope/TechnicalNote/issues)
 
