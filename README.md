@@ -8,11 +8,8 @@
 ===
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEndki%2FTIL-TechNote%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### :two_men_holding_hands: **created by** 
-
 
 ### :frowning_man: **도움을 주신 분들**
-
 
 **도움에 감사드립니다.** :pray:
 
@@ -40,8 +37,6 @@
 
 ## :video_game: Game [:top:](#top)
 
-## :octocat: Github [:top:](#top)
-
 ## :lips: Java [:top:](#top)
 
 ## :stars: JavaScript [:top:](#top)
@@ -59,6 +54,9 @@
 ## :hammer: Software Engineering [:top:](#top)
 
 ## :earth_asia: Web [:top:](#top)
+
+- ###### [쿠키와 세션](https://github.com/Endki/TIL-TechNote/blob/main/web/Cookie%26Session.md)
+- ###### [http 요청 메서드](https://github.com/Endki/TIL-TechNote/blob/main/web/HTTP_REQUEST_METHODS.md)
 
 ## :open_file_folder: Window [:top:](#top)
 
