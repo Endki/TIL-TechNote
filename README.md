@@ -9,19 +9,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEndki%2FTIL-TechNote%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### :frowning_man: **도움을 주신 분들**
-
-**도움에 감사드립니다.** :pray:
 
 ## Today I Learned
 - 하루하루 공부한 지식을 정리해 놓은 저장소 입니다.
+- 타인이 정리한 지식을 쉽게 익히면 쉽게 날아가는 것을 체감하여, 스스로 정리하려는 습관을 가지기 위한 저장소 입니다.
+- 공부했던 지식을 잊어도 쉽게 찾을 수 있도록 정리해 놓은 저장소 입니다.
 
 ## TechnicalNote?
 - 잘못된 부분이 있을 수도 있으니 **가이드라인**으로 참고해주시면 되겠습니다.
 - 궁금한 점이나 잘못된 부분은 **Issue**의 **Question** label 설정 후 등록해주세요.
 - 참고 자료 및 올렸으면 하는 지식을 **[Issue](https://github.com/jobhope/TechnicalNote/issues)** 등록을 통해 추가해주세요.
-
-## :microphone: 실제 면접 질문 모음  
 
 ## :books: Algorithm [:top:](#top)
 
