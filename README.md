@@ -55,7 +55,9 @@
 - ###### [쿠키와 세션](https://github.com/Endki/TIL-TechNote/blob/main/web/Cookie%26Session.md)
 - ###### [http 요청 메서드](https://github.com/Endki/TIL-TechNote/blob/main/web/HTTP_REQUEST_METHODS.md)
 
-## :open_file_folder: Window [:top:](#top)
+## :open_file_folder: Server[:top:](#top)
+
+- [SaaS / IaaS / PaaS](https://github.com/Endki/TIL-TechNote/blob/main/server/IaaS%2CPaaS%2CSaaS.md)
 
 ## :guitar: ETC [:top:](#top)
 
